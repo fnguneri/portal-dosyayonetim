@@ -8,6 +8,13 @@ Dosyayonetim modülümu portalınıza eklemek için ;
 
 => Portal klasörü içerisinde bulunan backend, frontend ve api dosyalarının sahip olduğu main.php dosyalarındaki modüls bölümüne kendi modülünüzü eklemeniz gerekmektedir.
 
-=> Composer.json a eklediğimiz repoyu sistemimize eklemek için vagrant ssh yaptıktan sonra cd /var/www/portal dizininde composer update veya composer require kouosl/portal-odev:dev-master komutunu çalıştırınız.
+
 
 => Gereken aşamalar;
+
+![ekran alintisi9](https://user-images.githubusercontent.com/45860464/50736829-69a98600-11d3-11e9-9018-52e478ebb292.PNG)
+
+
+ => Veritabanı işlemlerim için ise,elle oluşturmak yerine Migration Kullandım. Bu yüzden Migration dosyamın yüklenmesi gerekmektedir.Gereken komut düzeni:
+ 
+ 
