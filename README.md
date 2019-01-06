@@ -43,5 +43,10 @@ Dosyama Sayfamda görünen Bütün kelime ve cümlemlelerim;
 
 Örnek olarak sayfamda bir "h" etiketinin translate karşılığını ;
 
+![ekran alintisi4](https://user-images.githubusercontent.com/45860464/50737002-5c8d9680-11d5-11e9-8576-f1713e1c29d7.PNG)
+
+Kullandığım sayfa düzenlerinde "USE" etiketi ile göstermek için;
+
+
 
 ![ekran alintisi3](https://user-images.githubusercontent.com/45860464/50736993-45e73f80-11d5-11e9-9df1-ea54e3c3ea4c.PNG)
