@@ -26,3 +26,10 @@ Bu aşama doğru gerçekleştiği durumda PHPMYADMİN Görüntüleri:
 
 
 Modulumun Frontend Yani kullanıcı bazlı görüntü kısmında ilk olarak veritabanına dosya yüklemek isteyen kullancının göreceği görüntü:
+
+![ekran alintisi11](https://user-images.githubusercontent.com/45860464/50736933-6e226e80-11d4-11e9-8d98-76eb0c4e9951.PNG)
+  
+  
+  Dosya Eklendiği takdirde;
+  
+  
