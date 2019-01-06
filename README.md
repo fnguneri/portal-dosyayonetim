@@ -32,4 +32,13 @@ Modulumun Frontend Yani kullanıcı bazlı görüntü kısmında ilk olarak veri
   
   Dosya Eklendiği takdirde;
   
-  
+  ![ekran alintisi12](https://user-images.githubusercontent.com/45860464/50736958-b8a3eb00-11d4-11e9-8200-5ad7476aa4ff.PNG)
+
+
+
+Proje Aşamalarımdan biri olan TRANSLATİNG aşaması gerçekleştirirken \portal\vendor\kouosl\portal-dosyayonetim\messages\tr-TR
+Dosyama Sayfamda görünen Bütün kelime ve cümlemlelerim;
+
+
+
+
