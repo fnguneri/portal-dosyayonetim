@@ -1,4 +1,5 @@
 # portal-dosyayonetim
 Dosyayonetim modülümu portalınıza eklemek için ;
 
-! [ss] (C:\Users\asus\Desktop\Snapchat\e)
+
+https://github.com/fnguneri/portal-dosyayonetim/issues/1#issue-396259389
