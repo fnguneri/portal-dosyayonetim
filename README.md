@@ -1,5 +1,7 @@
 # portal-dosyayonetim
 Dosyayonetim modülümu portalınıza eklemek için ;
 
+=>Portal içerisindeki composer.json dosyasında bulunan repositories bölümüne bu linki  ekleyin :
 
-https://github.com/fnguneri/portal-dosyayonetim/issues/1#issue-396259389
+
+
