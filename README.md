@@ -49,4 +49,5 @@ Kullandığım sayfa düzenlerinde "USE" etiketi ile göstermek için;
 
 
 
-![ekran alintisi3](https://user-images.githubusercontent.com/45860464/50736993-45e73f80-11d5-11e9-9df1-ea54e3c3ea4c.PNG)
+![ekran alintisi3](https://user-images.githubusercontent.com/45860464/50737023-bc843d00-11d5-11e9-9631-1824f1a6493b.PNG)
+
