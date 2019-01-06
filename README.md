@@ -22,4 +22,7 @@ Dosyayonetim modülümu portalınıza eklemek için ;
 
 Bu aşama doğru gerçekleştiği durumda PHPMYADMİN Görüntüleri:
 
+![ekran alintisi5](https://user-images.githubusercontent.com/45860464/50736912-1a178a00-11d4-11e9-93fd-a1d6172e0cff.PNG)
 
+
+Modulumun Frontend Yani kullanıcı bazlı görüntü kısmında ilk olarak veritabanına dosya yüklemek isteyen kullancının göreceği görüntü:
