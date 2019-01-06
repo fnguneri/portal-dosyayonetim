@@ -17,4 +17,9 @@ Dosyayonetim modülümu portalınıza eklemek için ;
 
  => Veritabanı işlemlerim için ise,elle oluşturmak yerine Migration Kullandım. Bu yüzden Migration dosyamın yüklenmesi gerekmektedir.Gereken komut düzeni:
  
- 
+ ![ekran alintisi10](https://user-images.githubusercontent.com/45860464/50736898-ef2d3600-11d3-11e9-861b-70eae751160d.PNG)
+
+
+Bu aşama doğru gerçekleştiği durumda PHPMYADMİN Görüntüleri:
+
+
