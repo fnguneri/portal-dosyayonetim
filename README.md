@@ -39,6 +39,8 @@ Modulumun Frontend Yani kullanıcı bazlı görüntü kısmında ilk olarak veri
 Proje Aşamalarımdan biri olan TRANSLATİNG aşaması gerçekleştirirken \portal\vendor\kouosl\portal-dosyayonetim\messages\tr-TR
 Dosyama Sayfamda görünen Bütün kelime ve cümlemlelerim;
 
+![e](https://user-images.githubusercontent.com/45860464/50736978-205a3600-11d5-11e9-9353-baf73615705d.PNG)
 
+Örnek olarak sayfamda bir "h" etiketinin translate karşılığını ;
 
 
